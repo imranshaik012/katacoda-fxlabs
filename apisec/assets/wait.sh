@@ -6,7 +6,7 @@ show_progress()
   echo "http://104.42.41.159/swagger-ui.html "
   sleep 3
   echo "Parsing OpenAPI Spec"
-  sleep 5
+  sleep 4
   echo "Activating Broken Auth category"
   sleep 3
   echo "Total endpoints discovered : 75"
@@ -14,9 +14,9 @@ show_progress()
   echo "Total Assessments written by bot : 75"
   sleep 3
   echo "Running Broken Auth category"
-  sleep 5
+  sleep 3
   echo -e "\e[1;31m 7 vulnerablility endpoints detected\e[0m"
-  sleep 5
+  sleep 4
   echo "Exploitable endpoints:"
   echo "GET:http://138.91.64.62:8080/api/v1/primary-transaction/nMBRqCPE"
   sleep 1
