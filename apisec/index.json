@@ -1,10 +1,9 @@
 {
   "noindex": true,
-  "title": "APISec™ 3",
+  "title": "APISec™ 4",
   "description": "How to work with APISec™",
   "details": {
       "intro": {
-          "courseData": "background.sh",
           "code": "assets/wait.sh",
           "text": "intro.md"
       },
