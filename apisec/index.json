@@ -5,7 +5,6 @@
   "details": {
       "intro": {
           "courseData": "background.sh",
-        //   "code": "foreground.sh",
           "text": "intro.md"
       },
       "steps": [
