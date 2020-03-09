@@ -2,7 +2,6 @@
 
 show_progress()
 {
-  echo -n "Hello.."
   echo "we are starting APISec™"
   echo "http://104.42.41.159/swagger-ui.html "
   sleep 3
