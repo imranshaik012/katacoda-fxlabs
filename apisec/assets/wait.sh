@@ -18,15 +18,15 @@ show_progress()
   echo -e "\e[1;31m 7 vulnerablility endpoints detected\e[0m"
   sleep 4
   echo "Exploitable endpoints:"
-  echo "GET:http://138.91.64.62:8080/api/v1/primary-transaction/nMBRqCPE"
+  echo "GET:http://104.42.41.159/api/v1/primary-transaction/nMBRqCPE"
   sleep 1
-  echo "POST:http://138.91.64.62:8080/api/v1/users/personal-sign-up"
+  echo "POST:http://104.42.41.159/api/v1/users/personal-sign-up"
   sleep 1
-  echo "POST:http://138.91.64.62:8080/api/v1/users/enterprise-sign-up"
+  echo "POST:http://104.42.41.159/api/v1/users/enterprise-sign-up"
   sleep 1
-  echo "POST:http://138.91.64.62:8080/api/v1/users/team-sign-up"
+  echo "POST:http://104.42.41.159/api/v1/users/team-sign-up"
   sleep 1
-  echo "PUT:http://138.91.64.62:8080/api/v1/primary-transaction"
+  echo "PUT:http://104.42.41.159/api/v1/primary-transaction"
   sleep 1
   echo "End of Scan"
   sleep 2
