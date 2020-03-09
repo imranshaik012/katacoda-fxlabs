@@ -1,11 +1,11 @@
 {
   "noindex": true,
-  "title": "APISec™",
+  "title": "APISec™2",
   "description": "How to work with APISec™",
   "details": {
       "intro": {
           "courseData": "background.sh",
-          "code": "foreground.sh",
+          "code": "assets/wait.sh",
           "text": "intro.md"
       },
       "steps": [
@@ -13,12 +13,7 @@
             "title": "Step 1",
             "text": "step1.md"
         }
-    ],
-      "assets": {
-          "host01": [
-              {"file": "wait.sh", "target": "/usr/local/bin/", "chmod": "+x"}
-          ]
-      }
+    ]
   },
   "files": [],
   "environment": {
