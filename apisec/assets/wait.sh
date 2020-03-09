@@ -5,7 +5,7 @@ show_progress()
   echo "we are starting APISec™"
   echo "http://104.42.41.159/swagger-ui.html "
   sleep 3
-  echo "We are parsing OpenAPI Spec"
+  echo "Parsing OpenAPI Spec"
   sleep 5
   echo "Activating Broken Auth category"
   sleep 3
