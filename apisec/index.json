@@ -10,8 +10,8 @@
       },
       "steps": [
         {
-            "title": "",
-            "text": ""
+            "title": "Step 1",
+            "text": "step1.md"
         }
     ],
       "assets": {
