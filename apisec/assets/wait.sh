@@ -4,11 +4,11 @@ show_progress()
 {
   echo "CyberSecuriti.ai" 
   sleep 3
-  echo "API Security Platform\" 
+  echo "API Security Platform/" 
   sleep 3
   echo "The leading API security platform that instantly detects top security exploits stemming from business-logic, role-misconfiguration, & injection flaws that target the API layer. $'\n'" 
   sleep 3
-  echo "Starting CLI Demo $'\n'" 
+  echo "Starting CLI Demo" 
   sleep 3
    echo "API: Sample NetBanking API" 
   sleep 3
