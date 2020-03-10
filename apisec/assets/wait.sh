@@ -2,16 +2,16 @@
 
 show_progress()
 {
-  echo "we are starting APISec™"
-  echo "http://104.42.41.159/swagger-ui.html "
+  echo "we are starting APISec™" \
+  echo "http://104.42.41.159/swagger-ui.html " \
   sleep 3
-  echo "Parsing OpenAPI Spec"
+  echo "Parsing OpenAPI Spec" \
   sleep 4
-  echo "Activating Broken Auth category"
+  echo "Activating Broken Auth category" \
   sleep 3
   echo "Total endpoints discovered : 75"
   sleep 3
-  echo "Total Assessments written by bot : 75"
+  echo "Total Assessments written by bot : 75"\
   sleep 3
   echo "Running Broken Auth category"
   sleep 3
