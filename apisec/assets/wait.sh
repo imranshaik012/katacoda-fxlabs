@@ -24,21 +24,21 @@ show_progress()
   echo -e  "\e[33m Skipped: Auto Discovery from API Gateways (Apigee & 4+)..." 
   sleep 4
   echo ""
-  echo "Discovering API endpoints..." 
+  echo  -e "\e[39m Discovering API endpoints..." 
   sleep 3
-  echo "Total Endpoints Discovered: 75" 
+  echo -e "\e[39m Total Endpoints Discovered: 75" 
   sleep 3
   echo ""
-  echo "Activating Category: Broken Authentication"
+  echo -e "\e[39m Activating Category: Broken Authentication"
   sleep 1
-  echo "APISec Bot Writing Custom Assessments (Security-as-Code)..."
+  echo -e "\e[39m APISec Bot Writing Custom Assessments (Security-as-Code)..."
   sleep 3
-  echo "Total Assessments Written: 75"
+  echo -e " \e[39mTotal Assessments Written: 75"
   sleep 3
   echo ""
   echo -e "\e[33m Skipped: Enabling DevSecOps (Jira & 7+)..."
   sleep 3
-  echo "Running Broken Authentication (OWASP API2) category..."
+  echo -e "\e[39m Running Broken Authentication (OWASP API2) category..."
   sleep 3
   echo -e "\e[91mVulnerabilities detected"
   sleep 3
