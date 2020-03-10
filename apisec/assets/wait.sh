@@ -2,6 +2,8 @@
 
 show_progress()
 {
+  echo ""
+  echo ""
   echo "CyberSecuriti.ai" 
   sleep 3
   echo "API Security Platform" 
