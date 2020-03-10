@@ -7,7 +7,7 @@
 "details": {
       "intro": {
           "courseData": "background.sh",
-          "code": "foreground.sh",
+          "code": "wait.sh",
           "text": "intro.md"
       },
       "steps": [
