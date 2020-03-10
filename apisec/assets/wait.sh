@@ -16,7 +16,7 @@ show_progress()
   sleep 3
    echo "API OAS: http://104.42.41.159/v2/api-docs" 
   sleep 3
-  echo -e  "\e[93mSkipped: Auto Discovery from API Gateways (Apigee & 4+)..." 
+  echo -e  "\e[33m Skipped: Auto Discovery from API Gateways (Apigee & 4+)..." 
   sleep 4
   echo "Discovering API endpoints..." 
   sleep 3
@@ -24,7 +24,7 @@ show_progress()
   sleep 3
   echo "Total Assessments Written: 75"
   sleep 3
-  echo -e "\e[93mSkipped: Enabling DevSecOps (Jira & 7+)..."
+  echo -e "\e[33m Skipped: Enabling DevSecOps (Jira & 7+)..."
   sleep 3
   echo "Running Broken Authentication (OWASP API2) category..."
   sleep 3
