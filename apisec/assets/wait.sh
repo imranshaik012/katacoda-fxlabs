@@ -4,7 +4,7 @@ show_progress()
 {
   echo "CyberSecuriti.ai" 
   sleep 3
-  echo "API Security Platform/" 
+  echo "API Security Platform" 
   sleep 3
   echo ""
   sleep 1
@@ -53,7 +53,7 @@ show_progress()
   echo -e  "\e[91mPUT:http://104.42.41.159/api/v1/primary-transaction"
   sleep 1
   echo ""
-  echo -e  "\e[91mSkipped: Automatic Vulnerability Lifecycle Management (open/close) in (Jira & 5+).."
+  echo -e  "\e[33m Skipped: Automatic Vulnerability Lifecycle Management (open/close) in (Jira & 5+).."
   sleep 1
   echo ""
   echo -e  "\e[92mAPI security scan completed successfully."

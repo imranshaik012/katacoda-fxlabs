@@ -1,2 +1,2 @@
-sleep 1; echo "Hello..."  
+echo "CyberSecuriti.ai..."  
 sleep 1; wait.sh
