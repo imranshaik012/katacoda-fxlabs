@@ -24,13 +24,13 @@ show_progress()
   sleep 3
   echo "Total Assessments Written: 75"
   sleep 3
-  echo "\e[1;43m Skipped: Enabling DevSecOps (Jira & 7+)..."
+  echo "\e[1;43mSkipped: Enabling DevSecOps (Jira & 7+)..."
   sleep 3
   echo "Running Broken Authentication (OWASP API2) category..."
   sleep 3
-  echo "\e[1;31m Vulnerabilities detected"
+  echo "\e[1;31mVulnerabilities detected"
    sleep 3
-  echo "\e[1;31m GET:http://104.42.41.159/api/v1/primary-transaction/nMBRqCPE"
+  echo "\e[1;31mGET:http://104.42.41.159/api/v1/primary-transaction/nMBRqCPE"
   sleep 1
   echo "\e[1;31m POST:http://104.42.41.159/api/v1/users/personal-sign-up"
   sleep 1
