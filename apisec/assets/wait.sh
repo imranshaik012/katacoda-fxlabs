@@ -4,7 +4,7 @@ show_progress()
 {
   echo "CyberSecuriti.ai" 
   sleep 3
-  echo "API Security Platform $'\n'" 
+  echo "API Security Platform\" 
   sleep 3
   echo "The leading API security platform that instantly detects top security exploits stemming from business-logic, role-misconfiguration, & injection flaws that target the API layer. $'\n'" 
   sleep 3
