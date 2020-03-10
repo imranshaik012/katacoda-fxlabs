@@ -8,32 +8,39 @@ show_progress()
   sleep 3
   echo "The leading API security platform that instantly detects top security exploits stemming from business-logic, role-misconfiguration, & injection flaws that target the API layer." 
   sleep 3
-  echo "http://104.42.41.159/swagger-ui.html " 
+  echo "Starting CLI Demo" 
   sleep 3
-  echo "Parsing OpenAPI Spec" 
+   echo "API: Sample NetBanking API" 
+  sleep 3
+   echo "API Doc: http://104.42.41.159/swagger-ui.html" 
+  sleep 3
+   echo "API OAS: http://104.42.41.159/v2/api-docs" 
+  sleep 3
+  echo "\e[93mSkipped: Auto Discovery from API Gateways (Apigee & 4+)..." 
   sleep 4
-  echo "Activating Broken Auth category" \
+  echo "Discovering API endpoints..." 
   sleep 3
-  echo "Total endpoints discovered : 75"
+  echo "APISec Bot Writing Custom Assessments (Security-as-Code)..."
   sleep 3
-  echo "Total Assessments written by bot : 75"\
+  echo "Total Assessments Written: 75"
   sleep 3
-  echo "Running Broken Auth category"
+  echo "\e[93mSkipped: Enabling DevSecOps (Jira & 7+)..."
   sleep 3
-  echo -e "\e[1;31m 7 vulnerablility endpoints detected\e[0m"
-  sleep 4
-  echo "Exploitable endpoints:"
-  echo "GET:http://104.42.41.159/api/v1/primary-transaction/nMBRqCPE"
+  echo "Running Broken Authentication (OWASP API2) category..."
+  sleep 3
+  echo "\e[91m Vulnerabilities detected"
+   sleep 3
+  echo "\e[91m GET:http://104.42.41.159/api/v1/primary-transaction/nMBRqCPE"
   sleep 1
-  echo "POST:http://104.42.41.159/api/v1/users/personal-sign-up"
+  echo "\e[91m POST:http://104.42.41.159/api/v1/users/personal-sign-up"
   sleep 1
-  echo "POST:http://104.42.41.159/api/v1/users/enterprise-sign-up"
+  echo "\e[91m POST:http://104.42.41.159/api/v1/users/enterprise-sign-up"
   sleep 1
-  echo "POST:http://104.42.41.159/api/v1/users/team-sign-up"
+  echo "\e[91m POST:http://104.42.41.159/api/v1/users/team-sign-up"
   sleep 1
-  echo "PUT:http://104.42.41.159/api/v1/primary-transaction"
+  echo "\e[91m PUT:http://104.42.41.159/api/v1/primary-transaction"
   sleep 1
-  echo "End of Scan"
+  echo "\e[92mEnd of Scan"
   sleep 2
 
   # local -r pid="${1}"
