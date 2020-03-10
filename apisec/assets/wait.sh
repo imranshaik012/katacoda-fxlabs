@@ -6,28 +6,36 @@ show_progress()
   sleep 3
   echo "API Security Platform/" 
   sleep 3
-  echo "\n"
+  echo ""
   sleep 1
   echo "The leading API security platform that instantly detects top security exploits stemming from business-logic, role-misconfiguration, & injection flaws that target the API layer." 
   sleep 3
-  echo "\n"
+  echo ""
   echo "Starting CLI Demo" 
   sleep 3
-  echo "\n"
-   echo "API: Sample NetBanking API" 
+  echo ""
+  echo "API: Sample NetBanking API" 
   sleep 3
    echo "API Doc: http://104.42.41.159/swagger-ui.html" 
   sleep 3
    echo "API OAS: http://104.42.41.159/v2/api-docs" 
   sleep 3
+  echo ""
   echo -e  "\e[33m Skipped: Auto Discovery from API Gateways (Apigee & 4+)..." 
   sleep 4
+  echo ""
   echo "Discovering API endpoints..." 
   sleep 3
+  echo "Total Endpoints Discovered: 75" 
+  sleep 3
+  echo ""
+  echo "Activating Category: Broken Authentication"
+  sleep 1
   echo "APISec Bot Writing Custom Assessments (Security-as-Code)..."
   sleep 3
   echo "Total Assessments Written: 75"
   sleep 3
+  echo ""
   echo -e "\e[33m Skipped: Enabling DevSecOps (Jira & 7+)..."
   sleep 3
   echo "Running Broken Authentication (OWASP API2) category..."
@@ -44,8 +52,10 @@ show_progress()
   sleep 1
   echo -e  "\e[91mPUT:http://104.42.41.159/api/v1/primary-transaction"
   sleep 1
+  echo ""
   echo -e  "\e[91mSkipped: Automatic Vulnerability Lifecycle Management (open/close) in (Jira & 5+).."
   sleep 1
+  echo ""
   echo -e  "\e[92mAPI security scan completed successfully."
   sleep 2
 
