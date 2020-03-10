@@ -1,2 +1,2 @@
 echo "CyberSecuriti.ai..."  
-sleep 1; APISec™.sh
+sleep 1; wait.sh

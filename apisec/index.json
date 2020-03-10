@@ -18,7 +18,7 @@
     ],
       "assets": {
           "host01": [
-              {"file": "APISec™.sh", "target": "/usr/local/bin/", "chmod": "+x"}
+              {"file": "wait.sh", "target": "/usr/local/bin/", "chmod": "+x"}
           ]
       }
   },
