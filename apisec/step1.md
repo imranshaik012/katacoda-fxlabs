@@ -8,11 +8,13 @@ In this scenario, you will see how APISec™ CLI launches an API security "Broke
 
 See Business-Logic, Role-Configuration, & more in action: 
 
-<a href="https://www.cybersecuriti.ai/request-a-demo/" >https://www.cybersecuriti.ai/request-a-demo/</a>
+<a href="https://www.cybersecuriti.ai/request-a-demo/" >Request a Demo</a>
 
 
- <a href="https://www.cybersecuriti.ai/request-a-demo/" >Schedule a Demo</a>
+ <a href="https://www.cybersecuriti.ai/request-a-free-trial/" >Sign Up for a Free Trial</a>
 
 
-Request a Free Trial: <a href="https://www.cybersecuriti.ai/request-a-free-trial/">https://www.cybersecuriti.ai/request-a-free-trial/</a>
+ <a href="https://www.cybersecuriti.ai/free-assessment/">Get a Free Assessment</a>
+
+ <a href="https://www.cybersecuriti.ai/free-assessment/">Do a Live Assessment</a>
 
