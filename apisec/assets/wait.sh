@@ -16,7 +16,7 @@ show_progress()
   sleep 3
    echo "API OAS: http://104.42.41.159/v2/api-docs" 
   sleep 3
-  echo -e  "\e[1;43m Skipped: Auto Discovery from API Gateways (Apigee & 4+)..." 
+  echo -e  "\e[93mSkipped: Auto Discovery from API Gateways (Apigee & 4+)..." 
   sleep 4
   echo "Discovering API endpoints..." 
   sleep 3
@@ -24,25 +24,25 @@ show_progress()
   sleep 3
   echo "Total Assessments Written: 75"
   sleep 3
-  echo -e "\e[1;43m Skipped: Enabling DevSecOps (Jira & 7+)..."
+  echo -e "\e[93mSkipped: Enabling DevSecOps (Jira & 7+)..."
   sleep 3
   echo "Running Broken Authentication (OWASP API2) category..."
   sleep 3
-  echo -e "\e[1;31m Vulnerabilities detected"
+  echo -e "\e[91mVulnerabilities detected"
   sleep 3
-  echo -e  "\e[1;31mGET:http://104.42.41.159/api/v1/primary-transaction/nMBRqCPE"
+  echo -e  "\e[91mGET:http://104.42.41.159/api/v1/primary-transaction/nMBRqCPE"
   sleep 1
-  echo -e  "\e[1;31m POST:http://104.42.41.159/api/v1/users/personal-sign-up"
+  echo -e  "\e[91mPOST:http://104.42.41.159/api/v1/users/personal-sign-up"
   sleep 1
-  echo -e  "\e[1;31m POST:http://104.42.41.159/api/v1/users/enterprise-sign-up"
+  echo -e  "\e[91mPOST:http://104.42.41.159/api/v1/users/enterprise-sign-up"
   sleep 1
-  echo -e  "\e[1;31m POST:http://104.42.41.159/api/v1/users/team-sign-up"
+  echo -e  "\e[91mPOST:http://104.42.41.159/api/v1/users/team-sign-up"
   sleep 1
-  echo -e  "\e[1;31m PUT:http://104.42.41.159/api/v1/primary-transaction"
+  echo -e  "\e[91mPUT:http://104.42.41.159/api/v1/primary-transaction"
   sleep 1
-  echo -e  "\e[1;43m Skipped: Automatic Vulnerability Lifecycle Management (open/close) in (Jira & 5+).."
+  echo -e  "\e[91mSkipped: Automatic Vulnerability Lifecycle Management (open/close) in (Jira & 5+).."
   sleep 1
-  echo -e  "\e[1;42m API security scan completed successfully."
+  echo -e  "\e[92mAPI security scan completed successfully."
   sleep 2
 
   # local -r pid="${1}"
