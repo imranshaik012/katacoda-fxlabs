@@ -1,12 +1,12 @@
 {
   "noindex": true,
-  "title": " 8 . Launching API Security scan using CyberSecuriti.ai's APISecTM CLI",
+  "title": " 9 . Launching API Security scan using CyberSecuriti.ai's APISecTM CLI",
   "description": "CyberSecuriti.ai provides the industry-leading cloud-native API security solution that instantly detects top vulnerabilities stemming from business-logic, access-control, role-configurations, & injection flaws targeting the API layer. In this scenario, you will see how APISecTM CLI launches an API security 'Broken Authentication' scan on a sample API.",
 
   
 "details": {
       "intro": {
-          "courseData": "background.sh",
+          "courseData": "wait.sh",
           "code": "foreground.sh",
           "text": "intro.md"
       },
