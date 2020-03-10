@@ -2,10 +2,15 @@
 
 show_progress()
 {
-  echo "we are starting APISec™" \
-  echo "http://104.42.41.159/swagger-ui.html " \
+  echo "CyberSecuriti.ai" 
   sleep 3
-  echo "Parsing OpenAPI Spec" \
+  echo "API Security Platform" 
+  sleep 3
+  echo "The leading API security platform that instantly detects top security exploits stemming from business-logic, role-misconfiguration, & injection flaws that target the API layer." 
+  sleep 3
+  echo "http://104.42.41.159/swagger-ui.html " 
+  sleep 3
+  echo "Parsing OpenAPI Spec" 
   sleep 4
   echo "Activating Broken Auth category" \
   sleep 3
