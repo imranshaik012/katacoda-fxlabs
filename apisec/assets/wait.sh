@@ -6,10 +6,14 @@ show_progress()
   sleep 3
   echo "API Security Platform/" 
   sleep 3
+  echo "\n"
+  sleep 1
   echo "The leading API security platform that instantly detects top security exploits stemming from business-logic, role-misconfiguration, & injection flaws that target the API layer." 
   sleep 3
+  echo "\n"
   echo "Starting CLI Demo" 
   sleep 3
+  echo "\n"
    echo "API: Sample NetBanking API" 
   sleep 3
    echo "API Doc: http://104.42.41.159/swagger-ui.html" 
