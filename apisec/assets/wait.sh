@@ -40,6 +40,7 @@ show_progress()
   sleep 3
   echo -e "\e[39m Running Broken Authentication (OWASP API2) category..."
   sleep 3
+  echo ""
   echo -e "\e[91mVulnerabilities detected"
   sleep 3
   echo -e  "\e[91mGET:http://104.42.41.159/api/v1/primary-transaction/nMBRqCPE"
