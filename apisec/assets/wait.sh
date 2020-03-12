@@ -2,11 +2,12 @@
 
 show_progress()
 {
+  sleep 3
   echo ""
   echo "CyberSecuriti.ai" 
   sleep 3
   echo "API Security Platform" 
-  sleep 3
+  sleep 1
   echo ""
   sleep 1
   echo "The leading API security platform that instantly detects top security exploits stemming from business-logic, role-misconfiguration, & injection flaws that target the API layer." 
@@ -16,26 +17,25 @@ show_progress()
   sleep 3
   echo ""
   echo "API: Sample NetBanking API" 
-  sleep 3
+  sleep 2
    echo "API Doc: http://104.42.41.159/swagger-ui.html" 
-  sleep 3
+  sleep 2
    echo "API OAS: http://104.42.41.159/v2/api-docs" 
-  sleep 3
+  sleep 2
   echo ""
   echo -e  "\e[33m Skipped: Auto Discovery from API Gateways (Apigee & 4+)..." 
-  sleep 4
+  sleep 2
   echo ""
   echo  -e "\e[39m Discovering API endpoints..." 
-  sleep 3
+  sleep 2
   echo -e "\e[39m Total Endpoints Discovered: 75" 
-  sleep 3
+  sleep 2
   echo ""
   echo -e "\e[39m Activating Category: Broken Authentication"
   sleep 1
   echo -e "\e[39m APISec Bot Writing Custom Assessments (Security-as-Code)..."
   sleep 3
   echo -e " \e[39mTotal Assessments Written: 75"
-  sleep 3
   echo ""
   echo -e "\e[33m Skipped: Enabling DevSecOps (Jira & 7+)..."
   sleep 3
