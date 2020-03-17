@@ -6,5 +6,5 @@
     width: 50%;
   }
 a#next-tutorial {
-    display: none;
+    display: none !important;
 }
