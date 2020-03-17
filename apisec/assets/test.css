@@ -8,3 +8,9 @@
 a#next-tutorial {
     display: none !important;
 }
+#finished #finished-content {
+    position: absolute;
+    margin-bottom: 10px;
+    width: 100%;
+    display: none;
+}
