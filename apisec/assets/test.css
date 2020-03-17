@@ -9,5 +9,5 @@ a#next-tutorial {
     display: none !important;
 }
 #finished #finished-content {
-    display: none;
+    display: none !important;
 }
