@@ -5,7 +5,6 @@
   #split-host {
     width: 50%;
   }
-  button.primary-btn.btn, .primary-btn.btn {
-    background: #fd7700;
+a#next-tutorial {
     display: none;
 }
